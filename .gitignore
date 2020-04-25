@@ -1,0 +1,3 @@
+/msvc.build/
+/.vs/
+*.vcxproj.user
